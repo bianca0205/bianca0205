@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🎓 Software Engineering student passionate about building practical and user-friendly projects<br>📚 Constantly learning and experimenting with new tech<br>🧠 Always up for a good challenge<br>✨ Creativity is a big part of my process<br>🐱 Fun fact: My cat likes to "debug" my code by sleeping on my laptop<br>Thanks for visiting — feel free to check out my projects! 🚀<br>
+🎓 Software Engineering student passionate about building practical and user-friendly projects<br>📚 Constantly learning and experimenting with new tech<br>🧠 Always up for a good challenge<br>✨ Creativity is a big part of my process<br>🐱 Fun fact: My cat likes to "debug" my code by sleeping on my laptop<br><br>Thanks for visiting — feel free to check out my projects! 🚀<br>
 
 
 ## 🌐 Socials:
